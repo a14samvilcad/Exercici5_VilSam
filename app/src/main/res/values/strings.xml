@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Practica5_VilSam</string>
+    <string name="button_main">ENVIAR</string>
 </resources>
