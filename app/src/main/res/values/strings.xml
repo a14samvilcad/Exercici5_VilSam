@@ -3,5 +3,7 @@
     <string name="button_main">ENVIAR</string>
     <string name="text_header">Mensaje rebicido</string>
     <string name="editText_main">Ponme un mensajito</string>
-
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
 </resources>
