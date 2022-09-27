@@ -2,5 +2,6 @@
     <string name="app_name">Practica5_VilSam</string>
     <string name="button_main">ENVIAR</string>
     <string name="text_header">Mensaje rebicido</string>
+    <string name="editText_main">Ponme un mensajito</string>
 
 </resources>
