@@ -43,7 +43,8 @@ public class MainActivity extends AppCompatActivity {
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == TEXT_REQUEST) {
-            if (resultCode == RESULT_OK) {
+            if (resultCode == RESULT_OK)
+            {
                 String reply = data.getStringExtra(SecondActivity.EXTRA_REPLY);
                 mReplyHeadTextView.setVisibility(View.VISIBLE);
                 mReplyTextView.setText(reply);
